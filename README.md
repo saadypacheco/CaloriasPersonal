@@ -1,2 +1,4 @@
-# CaloriasPersonal
-es una copia del repositorio grupal que la app busca sacar fotos y determinar con IA las calorias que estoy consumiendo
+1.- hoy estuve trabajando en el DER , modificando el diseño de la base de datos, agregue ....
+2.- modifique el codigo agregue una vista a la app con lo siguiente .
+
+3.-
